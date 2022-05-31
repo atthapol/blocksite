@@ -1,1 +1,25 @@
+# Title: asatisa/restricted
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 31 May 2022
+# Number of unique domains: X
+#
+# Fetch the latest version of this file:  
+# Project home page:  
+# Project releases:  
+#
+# ===============================================================
 
+ 
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Title: asatisa/restricted
+
+0.0.0.0 www.dior89.com
