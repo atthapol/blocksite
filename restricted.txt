@@ -6,7 +6,7 @@
 # Date: 31 May 2022
 # Number of unique domains: X
 #
-# Fetch the latest version of this file:  
+# Fetch the latest version of this file: https://raw.githubusercontent.com/atthapol/blocksite/main/restricted.txt
 # Project home page:  
 # Project releases:  
 #
