@@ -28,5 +28,12 @@
 0.0.0.0 javhd.org
 0.0.0.0 www.javhd.com
 0.0.0.0 www.javhd.org
+0.0.0.0 188th.co
+0.0.0.0 lockdown168.co
+0.0.0.0 df011.com
+0.0.0.0 ufac4.net
+
+# Block restricted link
+0.0.0.0 https://www.037hdmovie.com/category/%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87-xxx-18/
 
 # End
