@@ -28,6 +28,9 @@
 0.0.0.0 javhd.org
 0.0.0.0 www.javhd.com
 0.0.0.0 www.javhd.org
+0.0.0.0 anyhubxxx.com
+
+# Block link
 0.0.0.0 188th.co
 0.0.0.0 lockdown168.co
 0.0.0.0 df011.com
